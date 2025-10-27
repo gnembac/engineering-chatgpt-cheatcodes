@@ -1,0 +1,2 @@
+# src/taglib.py
+TagDefs = {}
